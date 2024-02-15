@@ -10,3 +10,4 @@ Some commonly used Data Structures are:
 7. HashMaps
 8. Heaps
 9. Dynamic Programming
+10. Tries
